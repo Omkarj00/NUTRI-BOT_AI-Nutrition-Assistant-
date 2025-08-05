@@ -79,38 +79,6 @@ NutriBot bridges the gap between static nutrition apps and real-world dietary co
 
 ---
 
-## 🔮 What's Next?
-
-- Integration with fitness devices (Fitbit, Apple Watch) for activity tracking  
-- AI chatbot support for live coaching and feedback  
-- Multilingual support for global deployment  
-- Voice assistant compatibility (Alexa, Google Assistant)  
-- Offline access for low-connectivity areas  
-
----
-
-## 📁 Project Link
-
-> [https://github.com/yourusername/NutriBot](https://github.com/yourusername/NutriBot)
-
----
-
-## 🎓 IBM Certifications
-
-This project was built as part of the IBM Hackathon using:
-- IBM Applied AI Certification
-- IBM Watsonx Foundations
-- IBM Cloud Essentials
-
----
-
-## 🙌 Contributors
-
-**Omkar Pundlik Jagtap**  
-B.Tech CSE (AI), GH Raisoni College of Engineering & Management, Pune  
-Roll No: 2021ACAI1111046
-
----
 
 ## 📷 Screenshots
 
